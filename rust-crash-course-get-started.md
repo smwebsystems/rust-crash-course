@@ -4,11 +4,14 @@ Welcome to the companion repository for the Rust Fundamentals series! This repos
 
 ## Repository Structure
 
-* [Week 1: Introduction & Setup](./day-01-introduction)
+* [Week 1: Introduction & Setup](./day-01-introduction.md)
+* [Week 2: 
   
 
 ## Getting Started
 To follow along with the course, clone this repository to your local machine:
 ```bash
-git clone [https://github.com/smwebsystems/rust-crash-course.git](https://github.com/your-username/rust-fundamentals.git)
+git clone https://github.com/smwebsystems/rust-crash-course.git
 cd rust-fundamentals
+
+
