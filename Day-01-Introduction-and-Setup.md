@@ -1,9 +1,7 @@
-### 2. Day 1 Directory: `day-01-introduction/README.md`
-
-YouTube - https://youtu.be/X-wSwAVbuSY
-Slides - https://tinyurl.com/yvrvjvch
-
 # Day 1 - Introduction, Toolchain, and "Hello, World!"
+
+## [YouTube](https://youtu.be/X-wSwAVbuSY)
+## [Slides](https://tinyurl.com/yvrvjvch)
 
 ## 1. The "Why" of Rust
 * **Speed vs. Safety:** Rust bridges the gap by offering the raw performance of C++ with the memory safety of Java (without relying on a garbage collector).
