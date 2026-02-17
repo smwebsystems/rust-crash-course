@@ -4,7 +4,7 @@ Welcome to the companion repository for the Rust Fundamentals series! This repos
 
 ## Repository Structure
 
-* [Day 01: Introduction & Setup](.day-01-introduction-and-setup.md)  
+* [Day 01: Introduction & Setup](./day-01-introduction-and-setup.md)  
 
 ## Getting Started
 To follow along with the course, clone this repository to your local machine:
