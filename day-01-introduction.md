@@ -1,5 +1,3 @@
----
-
 ### 2. Day 1 Directory: `day-01-introduction/README.md`
 
 ```markdown
