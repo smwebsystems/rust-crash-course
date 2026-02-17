@@ -1,6 +1,8 @@
 ### 2. Day 1 Directory: `day-01-introduction/README.md`
 
-```markdown
+YouTube - https://youtu.be/X-wSwAVbuSY
+Slides - https://tinyurl.com/yvrvjvch
+
 # Day 1 - Introduction, Toolchain, and "Hello, World!"
 
 ## 1. The "Why" of Rust
@@ -11,8 +13,6 @@
 * `rustup`: The official installer and toolchain manager.
 * `rustc`: The core Rust compiler (translates your Rust code into machine code).
 * `cargo`: Rust’s official package manager and build system. You will use this tool for almost everything in your Rust career.
-
-
 
 ## 3. Environment Setup
 * **Install Rust:** Use the terminal command provided on the [official Rust website](https://www.rust-lang.org/tools/install).
